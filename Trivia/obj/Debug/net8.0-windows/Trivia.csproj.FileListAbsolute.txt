@@ -20,3 +20,4 @@ E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\Trivia\obj\Debug\net
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\Trivia\obj\Debug\net8.0-windows\Trivia.pdb
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\Trivia\obj\Debug\net8.0-windows\Trivia.genruntimeconfig.cache
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\Trivia\obj\Debug\net8.0-windows\ref\Trivia.dll
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\Trivia\obj\Debug\net8.0-windows\Trivia.sourcelink.json
